@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl1text1">а</string>
+    <string name="lvl1text2">ха</string>
+    <string name="lvl1text3">ки</string>
+    <string name="lvl1text4">ма</string>
+    <string name="lvl1text5">ми</string>
+    <string name="lvl1text6">на</string>
+    <string name="lvl1text7">не</string>
+    <string name="lvl1text8">но</string>
+    <string name="lvl1text9">ро</string>
+    <string name="lvl1text10">су</string>
+
+    <string name="lvl2text1">хо</string>
+    <string name="lvl2text2">ка</string>
+    <string name="lvl2text3">ку</string>
+    <string name="lvl2text4">ва</string>
+    <string name="lvl2text5">ве</string>
+    <string name="lvl2text6">ви</string>
+    <string name="lvl2text7">во</string>
+    <string name="lvl2text8">я</string>
+    <string name="lvl2text9">ю</string>
+    <string name="lvl2text10">йо</string>
+
+    <string name="lvl3text1">э</string>
+    <string name="lvl3text2">ти</string>
+    <string name="lvl3text3">фу</string>
+    <string name="lvl3text4">хэ</string>
+    <string name="lvl3text5">ке</string>
+    <string name="lvl3text6">ко</string>
+    <string name="lvl3text7">му</string>
+    <string name="lvl3text8">н</string>
+    <string name="lvl3text9">ни</string>
+    <string name="lvl3text10">ну</string>
+
+    <string name="lvl4text1">хи</string>
+    <string name="lvl4text2">ме</string>
+    <string name="lvl4text3">мо</string>
+    <string name="lvl4text4">ри</string>
+    <string name="lvl4text5">ру</string>
+    <string name="lvl4text6">са</string>
+    <string name="lvl4text7">се</string>
+    <string name="lvl4text8">си(ши)</string>
+    <string name="lvl4text9">тэ</string>
+    <string name="lvl4text10">то</string>
+    <string name="lvl4text11">си</string>
+
+    <string name="lvl5text1">и</string>
+    <string name="lvl5text2">о</string>
+    <string name="lvl5text3">ра</string>
+    <string name="lvl5text4">ва</string>
+    <string name="lvl5text5">со</string>
+    <string name="lvl5text6">та</string>
+    <string name="lvl5text7">цу(тсу)</string>
+    <string name="lvl5text8">у</string>
+    <string name="lvl5text9">тсу</string>
+
+    <string name="lvl6text1">да</string>
+    <string name="lvl6text2">дэ</string>
+    <string name="lvl6text3">до</string>
+    <string name="lvl6text4">дзи</string>
+    <string name="lvl6text5">дзу</string>
+    <string name="lvl6text6">га</string>
+    <string name="lvl6text7">ге</string>
+    <string name="lvl6text8">ги</string>
+    <string name="lvl6text9">го</string>
+    <string name="lvl6text10">гу</string>
+
+    <string name="lvl7text1">ба</string>
+    <string name="lvl7text2">бэ</string>
+    <string name="lvl7text3">би</string>
+    <string name="lvl7text4">бо</string>
+    <string name="lvl7text5">бу</string>
+    <string name="lvl7text6">дза</string>
+    <string name="lvl7text7">дзэ</string>
+    <string name="lvl7text8">дзи</string>
+    <string name="lvl7text9">дзо</string>
+    <string name="lvl7text10">дзу</string>
+
+    <string name="lvl8text1">па</string>
+    <string name="lvl8text2">пэ</string>
+    <string name="lvl8text3">пи</string>
+    <string name="lvl8text4">пу</string>
+    <string name="lvl8text5">по</string>
+
+    <string name="lvl9textshi">ши</string>
+
+    <string name="lvl11text1">а</string>
+    <string name="lvl11text2">ха</string>
+    <string name="lvl11text3">и</string>
+    <string name="lvl11text4">ма</string>
+    <string name="lvl11text5">н</string>
+    <string name="lvl11text6">на</string>
+    <string name="lvl11text7">ра</string>
+    <string name="lvl11text8">си</string>
+    <string name="lvl11text9">тсу</string>
+    <string name="lvl11text10">я</string>
+
+    <string name="lvl12text1">хи</string>
+    <string name="lvl12text2">ка</string>
+    <string name="lvl12text3">ки</string>
+    <string name="lvl12text4">ми</string>
+    <string name="lvl12text5">ни</string>
+    <string name="lvl12text6">ри</string>
+    <string name="lvl12text7">ру</string>
+    <string name="lvl12text8">са</string>
+    <string name="lvl12text9">та</string>
+    <string name="lvl12text10">ти</string>
+
+    <string name="lvl13text1">хэ</string>
+    <string name="lvl13text2">фу</string>
+    <string name="lvl13text3">мэ</string>
+    <string name="lvl13text4">му</string>
+    <string name="lvl13text5">нэ</string>
+    <string name="lvl13text6">ну</string>
+    <string name="lvl13text7">рэ</string>
+    <string name="lvl13text8">тэ</string>
+    <string name="lvl13text9">су</string>
+    <string name="lvl13text10">ю</string>
+
+    <string name="lvl14text1">хо</string>
+    <string name="lvl14text2">ку</string>
+    <string name="lvl14text3">мо</string>
+    <string name="lvl14text4">но</string>
+    <string name="lvl14text5">ро</string>
+    <string name="lvl14text6">сэ</string>
+    <string name="lvl14text7">то</string>
+    <string name="lvl14text8">у</string>
+    <string name="lvl14text9">в(о)</string>
+    <string name="lvl14text10">йо</string>
+
+    <string name="lvl15text1">э</string>
+    <string name="lvl15text2">кэ</string>
+    <string name="lvl15text3">ко</string>
+    <string name="lvl15text4">о</string>
+    <string name="lvl15text5">со</string>
+    <string name="lvl15text6">ва</string>
+    <string name="lvl15text7">вэ</string>
+    <string name="lvl15text8">ви</string>
+
+    <string name="third_type1">ба</string>
+    <string name="third_type2">би</string>
+    <string name="third_type3">бо</string>
+    <string name="third_type4">бу</string>
+    <string name="third_type5">да</string>
+    <string name="third_type6">дэ</string>
+    <string name="third_type7">до</string>
+    <string name="third_type8">дза</string>
+    <string name="third_type9">дзэ</string>
+    <string name="third_type10">дзи</string>
+    <string name="third_type11">ди</string>
+    <string name="third_type12">дзо</string>
+    <string name="third_type13">дзу</string>
+    <string name="third_type14">га</string>
+    <string name="third_type15">гэ</string>
+    <string name="third_type16">ги</string>
+    <string name="third_type17">го</string>
+    <string name="third_type18">гу</string>
+    <string name="third_type19">па</string>
+    <string name="third_type20">пэ</string>
+    <string name="third_type21">пи</string>
+    <string name="third_type22">по</string>
+    <string name="third_type23">пу</string>
+    <string name="third_type24">ву</string>
+
+
+
+    <string name="second_type0">рэй</string>
+    <string name="second_type1">ити</string>
+    <string name="second_type2">ни</string>
+    <string name="second_type3">сан</string>
+    <string name="second_type4">си(йон)</string>
+    <string name="second_type5">го</string>
+    <string name="second_type6">року</string>
+    <string name="second_type7">сити</string>
+    <string name="second_type8">хати</string>
+    <string name="second_type9">кю:</string>
+    <string name="second_type10">дзю:</string>
+    <string name="second_type11">хяку</string>
+    <string name="second_type12">сэн</string>
+    <string name="second_type13">ман</string>
+
+
+</resources>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl1text1">a</string>
+    <string name="lvl1text2">ha</string>
+    <string name="lvl1text3">ki</string>
+    <string name="lvl1text4">ma</string>
+    <string name="lvl1text5">mi</string>
+    <string name="lvl1text6">na</string>
+    <string name="lvl1text7">ne</string>
+    <string name="lvl1text8">no</string>
+    <string name="lvl1text9">ro</string>
+    <string name="lvl1text10">su</string>
+
+    <string name="lvl2text1">ho</string>
+    <string name="lvl2text2">ka</string>
+    <string name="lvl2text3">ku</string>
+    <string name="lvl2text4">wa</string>
+    <string name="lvl2text5">we</string>
+    <string name="lvl2text6">wi</string>
+    <string name="lvl2text7">wo</string>
+    <string name="lvl2text8">ya</string>
+    <string name="lvl2text9">yu</string>
+    <string name="lvl2text10">yo</string>
+
+    <string name="lvl3text1">e</string>
+    <string name="lvl3text2">chi</string>
+    <string name="lvl3text3">fu</string>
+    <string name="lvl3text4">he</string>
+    <string name="lvl3text5">ke</string>
+    <string name="lvl3text6">ko</string>
+    <string name="lvl3text7">mu</string>
+    <string name="lvl3text8">n</string>
+    <string name="lvl3text9">ni</string>
+    <string name="lvl3text10">nu</string>
+
+    <string name="lvl4text1">hi</string>
+    <string name="lvl4text2">me</string>
+    <string name="lvl4text3">mo</string>
+    <string name="lvl4text4">ri</string>
+    <string name="lvl4text5">ru</string>
+    <string name="lvl4text6">sa</string>
+    <string name="lvl4text7">se</string>
+    <string name="lvl4text8">shi</string>
+    <string name="lvl4text9">te</string>
+    <string name="lvl4text10">to</string>
+    <string name="lvl4text11">shi</string>
+
+    <string name="lvl5text1">i</string>
+    <string name="lvl5text2">o</string>
+    <string name="lvl5text3">ra</string>
+    <string name="lvl5text4">wa</string>
+    <string name="lvl5text5">so</string>
+    <string name="lvl5text6">ta</string>
+    <string name="lvl5text7">tsu</string>
+    <string name="lvl5text8">u</string>
+    <string name="lvl5text9">tsu</string>
+
+    <string name="lvl6text1">da</string>
+    <string name="lvl6text2">de</string>
+    <string name="lvl6text3">do</string>
+    <string name="lvl6text4">dzi</string>
+    <string name="lvl6text5">dzu</string>
+    <string name="lvl6text6">ga</string>
+    <string name="lvl6text7">ge</string>
+    <string name="lvl6text8">gi</string>
+    <string name="lvl6text9">go</string>
+    <string name="lvl6text10">gu</string>
+
+    <string name="lvl7text1">ba</string>
+    <string name="lvl7text2">be</string>
+    <string name="lvl7text3">bi</string>
+    <string name="lvl7text4">bo</string>
+    <string name="lvl7text5">bu</string>
+    <string name="lvl7text6">dza</string>
+    <string name="lvl7text7">dze</string>
+    <string name="lvl7text8">dzi</string>
+    <string name="lvl7text9">dzo</string>
+    <string name="lvl7text10">dzu</string>
+
+    <string name="lvl8text1">pa</string>
+    <string name="lvl8text2">pe</string>
+    <string name="lvl8text3">pi</string>
+    <string name="lvl8text4">pu</string>
+    <string name="lvl8text5">po</string>
+
+    <string name="lvl9textshi">shi</string>
+
+    <string name="lvl11text1">a</string>
+    <string name="lvl11text2">ha</string>
+    <string name="lvl11text3">i</string>
+    <string name="lvl11text4">ma</string>
+    <string name="lvl11text5">n</string>
+    <string name="lvl11text6">na</string>
+    <string name="lvl11text7">ra</string>
+    <string name="lvl11text8">shi</string>
+    <string name="lvl11text9">tsu</string>
+    <string name="lvl11text10">ya</string>
+
+    <string name="lvl12text1">hi</string>
+    <string name="lvl12text2">ka</string>
+    <string name="lvl12text3">ki</string>
+    <string name="lvl12text4">mi</string>
+    <string name="lvl12text5">ni</string>
+    <string name="lvl12text6">ri</string>
+    <string name="lvl12text7">ru</string>
+    <string name="lvl12text8">sa</string>
+    <string name="lvl12text9">ta</string>
+    <string name="lvl12text10">ti</string>
+
+    <string name="lvl13text1">he</string>
+    <string name="lvl13text2">fu</string>
+    <string name="lvl13text3">me</string>
+    <string name="lvl13text4">mu</string>
+    <string name="lvl13text5">ne</string>
+    <string name="lvl13text6">nu</string>
+    <string name="lvl13text7">re</string>
+    <string name="lvl13text8">te</string>
+    <string name="lvl13text9">su</string>
+    <string name="lvl13text10">yu</string>
+
+    <string name="lvl14text1">ho</string>
+    <string name="lvl14text2">ku</string>
+    <string name="lvl14text3">mo</string>
+    <string name="lvl14text4">no</string>
+    <string name="lvl14text5">ro</string>
+    <string name="lvl14text6">se</string>
+    <string name="lvl14text7">to</string>
+    <string name="lvl14text8">u</string>
+    <string name="lvl14text9">wo</string>
+    <string name="lvl14text10">yo</string>
+
+    <string name="lvl15text1">e</string>
+    <string name="lvl15text2">ke</string>
+    <string name="lvl15text3">ko</string>
+    <string name="lvl15text4">o</string>
+    <string name="lvl15text5">so</string>
+    <string name="lvl15text6">wa</string>
+    <string name="lvl15text7">we</string>
+    <string name="lvl15text8">wi</string>
+
+    <string name="third_type1">ba</string>
+    <string name="third_type2">bi</string>
+    <string name="third_type3">bo</string>
+    <string name="third_type4">bu</string>
+    <string name="third_type5">da</string>
+    <string name="third_type6">de</string>
+    <string name="third_type7">do</string>
+    <string name="third_type8">dza</string>
+    <string name="third_type9">dze</string>
+    <string name="third_type10">dzi</string>
+    <string name="third_type11">di</string>
+    <string name="third_type12">dzo</string>
+    <string name="third_type13">dzu</string>
+    <string name="third_type14">ga</string>
+    <string name="third_type15">ge</string>
+    <string name="third_type16">gi</string>
+    <string name="third_type17">go</string>
+    <string name="third_type18">gu</string>
+    <string name="third_type19">pa</string>
+    <string name="third_type20">pe</string>
+    <string name="third_type21">pi</string>
+    <string name="third_type22">po</string>
+    <string name="third_type23">pu</string>
+    <string name="third_type24">wu</string>
+
+
+
+    <string name="second_type0">rei</string>
+    <string name="second_type1">ichi</string>
+    <string name="second_type2">ni</string>
+    <string name="second_type3">san</string>
+    <string name="second_type4">shi(yon)</string>
+    <string name="second_type5">go</string>
+    <string name="second_type6">roku</string>
+    <string name="second_type7">siti</string>
+    <string name="second_type8">hati</string>
+    <string name="second_type9">kyu:</string>
+    <string name="second_type10">dzu:</string>
+    <string name="second_type11">hyaku</string>
+    <string name="second_type12">sen</string>
+    <string name="second_type13">man</string>
+
+
+</resources>

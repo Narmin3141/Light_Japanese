@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose">Choose alphabet</string>
+    <string name="pozdrav">Congratulations, you have completed the level! Your points:</string>
+    <string name="error">Game over( Try again:D</string>
+    <string name="check_your_knowledge">Test your knowledge: collect the word:)</string>
+    <string name="check_your_knowledge1">Good old: collect the word)</string>
+    <string name="check_your_knowledge_17">How to say in Japanese: How are you?</string>
+    <string name="check_your_knowledge_18">How to say in Japanese: Nice to meet you</string>
+    <string name="check_your_knowledge_19">How to say in Japanese: Goodbye</string>
+    <string name="check_your_knowledge_20">Collect with the alphabet: I love you</string>
+    <string name="check_your_knowledge_21">Collect the phrase: Bon appetit</string>
+    <string name="check_your_knowledge_22">How to say in Japanese: How old are you?</string>
+    <string name="check_your_knowledge_23">Collect the phrase: Thank you, I`m fine</string>
+    <string name="check_your_knowledge_24">Collect the word: cream</string>
+    <string name="check_your_knowledge_25">How to say in Japanese: Here you go</string>
+    <string name="check_your_knowledge_26">Word: Katakana</string>
+    <string name="check_your_knowledge_27">Collect the word: catalog</string>
+    <string name="check_your_knowledge_28">How to say in Japanese: yesterday</string>
+    <string name="check_your_knowledge_29">Collect the word: today</string>
+
+    <string name="last_level">The final level! Test your knowledge in two alphabets!</string>
+    <string name="levelEndThirdType">My congratulations!)</string>
+    <string name="levelone">"Learn and complete the level \nQuestions will be repeated. \nScroll to see all syllables."</string>
+    <string name="leveloneEnd">"Completed the first level\n"</string>
+    <string name="leveltwoEnd">"Completed the second level\n"</string>
+    <string name="levelthreeEnd">"Completed the third level\n"</string>
+    <string name="levelfourEnd">"Completed the fourth level\n"</string>
+
+    <string name="levelfiveEnd">"Completed the fifth level\n"</string>
+    <string name="levelsixEnd">"Completed the sixth level\n"</string>
+    <string name="levelsevenEnd">"Completed the seventh level\n"</string>
+    <string name="leveleightEnd">"Completed the eighth level\n"</string>
+
+    <string name="levelnineEnd">"Hajimemashita - nice to meet you"</string>
+    <string name="leveltenEnd">"Iriguchi - Entrance\n"</string>
+    <string name="levelelevenEnd">"Completed the eleventh level\n"</string>
+    <string name="leveltwelweEnd">"Completed level twelve\n"</string>
+
+    <string name="levelthirteenEnd">"Completed the thirteenth level\n"</string>
+    <string name="levelfourteenEnd">"Completed level fourteen\n"</string>
+    <string name="levelfifteenEnd">"Completed the fifteenth level\n"</string>
+
+    <string name="level16End">"Tetsudo: -eki - Station, train station \ nColon - sign of lengthening sound"</string>
+    <string name="level17End">"O-genki des ka - How are you?\n"</string>
+    <string name="level18End">"Yoroshiku - Nice to meet you\n"</string>
+    <string name="level19End">"Sayo: nara - Goodbye!\n"</string>
+    <string name="level20End">"Aishiteru - I love you\n"</string>
+
+    <string name="level21End">"Itadakimas - Bon appetit"</string>
+    <string name="level22End">"Nansai des ka - how old are you?\n"</string>
+    <string name="level23End">"Okagesamade - Thank you, I'm fine\n"</string>
+    <string name="level24End">"Ku-re-mu - cream"</string>
+    <string name="level25End">"Do: zo - please take;\nHere, please\n"</string>
+
+    <string name="level26End">"Ka-ta-ka-na - katakana.  This is the name of the Japanese alphabet\nUsed mainly when writing foreign words"</string>
+    <string name="level27End">"Katarogu - catalog.  There is no 'l' sound in Japanese.  It is usually replaced with the 'r' sound.\n"</string>
+    <string name="level28End">"Sakujitsu - yesterday\n"</string>
+    <string name="level29End">"Connity - today"</string>
+    <string name="level30End">"Congratulations!  you have completed all levels in this section:)\n"</string>
+
+</resources>

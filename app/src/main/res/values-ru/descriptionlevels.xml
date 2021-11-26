@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose">Выберите азбуку</string>
+    <string name="pozdrav">Поздравляю, Вы завершили уровень! И набрали:</string>
+    <string name="error">Вы проиграли, попробуйте ещё раз)</string>
+    <string name="check_your_knowledge">Проверь свои знания: собери слово:)</string>
+    <string name="check_your_knowledge1">Старое доброе: собери слово)</string>
+    <string name="check_your_knowledge_17">Как будет по-японски: Как дела?</string>
+    <string name="check_your_knowledge_18">Как будет по-японски: Рад знакомству</string>
+    <string name="check_your_knowledge_19">Как будет по-японски: До свидания</string>
+    <string name="check_your_knowledge_20">Собери при помощи азбуки: Я тебя люблю</string>
+    <string name="check_your_knowledge_21">Собери фразу: Приятного аппетита</string>
+    <string name="check_your_knowledge_22">Как будет по-японски: Сколько тебе лет?</string>
+    <string name="check_your_knowledge_23">Собери фразу: Спасибо, я в порядке</string>
+    <string name="check_your_knowledge_24">Собери слово: крем</string>
+    <string name="check_your_knowledge_25">Как будет по-японски: Вот, пожалуйста</string>
+    <string name="check_your_knowledge_26">Слово: Катакана</string>
+    <string name="check_your_knowledge_27">Собери слово: каталог</string>
+    <string name="check_your_knowledge_28">Как будет по-японски: вчера</string>
+    <string name="check_your_knowledge_29">Собери слово: сегодня</string>
+
+    <string name="last_level">Завершающий уровень! Проверь свои знания по двум азбукам!</string>
+    <string name="levelEndThirdType">Мои поздравления!)</string>
+    <string name="levelone">Выучи и пройди уровень. Вопросы будут повторяться:D Прокрути, чтобы увидеть все слоги.</string>
+
+    <string name="leveloneEnd">"Пройден первый уровень\n"</string>
+    <string name="leveltwoEnd">"Пройден второй уровень\n"</string>
+    <string name="levelthreeEnd">"Пройден третий уровень\n"</string>
+    <string name="levelfourEnd">"Пройден четвёртый уровень\n"</string>
+
+    <string name="levelfiveEnd">"Пройден пятый уровень\n"</string>
+    <string name="levelsixEnd">"Пройден шестой уровень\n"</string>
+    <string name="levelsevenEnd">"Пройден седьмой уровень\n"</string>
+    <string name="leveleightEnd">"Пройден восьмой уровень\n"</string>
+
+    <string name="levelnineEnd">"Хадзимемасита - приятно познакомиться"</string>
+    <string name="leveltenEnd">"Иригути - Вход\n"</string>
+    <string name="levelelevenEnd">"Пройден одиннадцатый уровень\n"</string>
+    <string name="leveltwelweEnd">"Пройден двенадцатый уровень\n"</string>
+
+    <string name="levelthirteenEnd">"Пройден тринадцатый уровень\n"</string>
+    <string name="levelfourteenEnd">"Пройден четырнадцатый уровень\n"</string>
+    <string name="levelfifteenEnd">"Пройден пятнадцатый уровень\n"</string>
+
+    <string name="level16End">"Тэцудо:-эки - Станция, вокзал\nДвоеточие - знак удлиннения звука"</string>
+    <string name="level17End">"О -гэнки дэс ка - Как дела?\n"</string>
+    <string name="level18End">"Ёросику - рад знакомству\n"</string>
+    <string name="level19End">"Саё: нара - До свидания!\n"</string>
+    <string name="level20End">"Айситэру - я тебя люблю\n"</string>
+
+    <string name="level21End">"Итадакимас - Приятного аппетита"</string>
+    <string name="level22End">"Нансай дэс ка - сколько тебе лет?\n"</string>
+    <string name="level23End">"Окагэсамадэ - спасибо, я в порядке\n"</string>
+    <string name="level24End">"Ку-рэ-му - крем"</string>
+    <string name="level25End">"До: дзо - пожалуйста, возьмите;\nВот, пожалуйста\n"</string>
+
+    <string name="level26End">"Ка-та-ка-на - катакана. Так называется японская азбука\nИспользуется в основном при написании иностранных слов"</string>
+    <string name="level27End">"Катарогу - каталог. В японском языке нет звука 'л'. Обычно он заменяется на звук 'р'.\n"</string>
+    <string name="level28End">"Сакудзицу - вчера\n"</string>
+    <string name="level29End">"Коннити - сегодня"</string>
+    <string name="level30End">"Поздравляю! вы прошли все уровни в этом разделе :)\n"</string>
+
+</resources>

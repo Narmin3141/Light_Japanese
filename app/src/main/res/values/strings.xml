@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Light Japanese</string>
+    <string name="start">Start</string>
+    <string name="rotate">Spin the wheel</string>
+    <string name="lets_go">Let`s start!</string>
+    <string name="hiragana">Hiragana</string>
+    <string name="katakana">Katakana</string>
+    <string name="desc1">Menu background</string>
+    <string name="desc2">sakura</string>
+    <string name="toast_trash">Click again to reset progress</string>
+    <string name="toast_vihod">Press again to exit</string>
+    <string name="toast_press">Click on the picture in the middle</string>
+    <string name="toast_ready">If you`re ready, start the game</string>
+    <string name="back">Back</string>
+    <string name="level">Level:</string>
+    <string name="level1">Level: 1</string>
+    <string name="level2">Level: 2</string>
+    <string name="level3">Level: 3</string>
+    <string name="level4">Level: 4</string>
+    <string name="level5">Level: 5</string>
+    <string name="level6">Level: 6</string>
+    <string name="level7">Level: 7</string>
+    <string name="level8">Level: 8</string>
+    <string name="level9">Level: 9</string>
+    <string name="level10">Level: 10</string>
+    <string name="level11">Level: 11</string>
+    <string name="level12">Level: 12</string>
+    <string name="level13">Level: 13</string>
+    <string name="level14">Level: 14</string>
+    <string name="level15">Level: 15</string>
+    <string name="level16">Level: 16</string>
+    <string name="level17">Level: 17</string>
+    <string name="level18">Level: 18</string>
+    <string name="level19">Level: 19</string>
+    <string name="level20">Level: 20</string>
+    <string name="level21">Level: 21</string>
+    <string name="level22">Level: 22</string>
+    <string name="level23">Level: 23</string>
+    <string name="level24">Level: 24</string>
+    <string name="level25">Level: 25</string>
+    <string name="level26">Level: 26</string>
+    <string name="level27">Level: 27</string>
+    <string name="level28">Level: 28</string>
+    <string name="level29">Level: 29</string>
+    <string name="level30">Level: 30</string>
+    <string name="points">Points:</string>
+    <string name="point1">Points: 1</string>
+    <string name="point2">Points: 2</string>
+    <string name="point3">Points: 3</string>
+    <string name="point4">Points: 4</string>
+    <string name="point5">Points: 5</string>
+    <string name="point6">Points: 6</string>
+    <string name="point7">Points: 7</string>
+    <string name="point8">Points: 8</string>
+
+    <string name="textcontinuoe">Continue</string>
+    <string name="textscore">You scored</string>
+
+    <string name="texts_rules">How to play?\nBy default, the "Start" button leads to the blue sector, in which
+with at each new level you will learn more and more Japanese
+alphabet symbols.\nTo get to another sector, spin the wheel and press "Start".\n1. Blue sector - the study of katakana and hiragana. Contains
+levels in which you can collect a word using syllables.\n2. Green sector - the study of Japanese numbers.\n3. Pink sector - training in knowledge of the alphabet (katakana
+and hiragana).\nHave a nice game)</string>
+</resources>

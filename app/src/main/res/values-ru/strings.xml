@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Простой японский</string>
+    <string name="start">Начать</string>
+    <string name="rotate">Крутить колесо</string>
+    <string name="lets_go">Стартуем!</string>
+    <string name="hiragana">Хирагана</string>
+    <string name="katakana">Катакана</string>
+    <string name="desc1">Фон для меню</string>
+    <string name="desc2">сакура</string>
+    <string name="toast_trash">Нажми ещё раз для сброса прогресса</string>
+    <string name="toast_vihod">Нажми ещё раз для выхода</string>
+    <string name="toast_press">Нажимай на картинку по середине</string>
+    <string name="toast_ready">Если готовы, начните игру</string>
+    <string name="back">Назад</string>
+    <string name="level">Уровень:</string>
+    <string name="level1">Уровень: 1</string>
+    <string name="level2">Уровень: 2</string>
+    <string name="level3">Уровень: 3</string>
+    <string name="level4">Уровень: 4</string>
+    <string name="level5">Уровень: 5</string>
+    <string name="level6">Уровень: 6</string>
+    <string name="level7">Уровень: 7</string>
+    <string name="level8">Уровень: 8</string>
+    <string name="level9">Уровень: 9</string>
+    <string name="level10">Уровень: 10</string>
+    <string name="level11">Уровень: 11</string>
+    <string name="level12">Уровень: 12</string>
+    <string name="level13">Уровень: 13</string>
+    <string name="level14">Уровень: 14</string>
+    <string name="level15">Уровень: 15</string>
+    <string name="level16">Уровень: 16</string>
+    <string name="level17">Уровень: 17</string>
+    <string name="level18">Уровень: 18</string>
+    <string name="level19">Уровень: 19</string>
+    <string name="level20">Уровень: 20</string>
+    <string name="level21">Уровень: 21</string>
+    <string name="level22">Уровень: 22</string>
+    <string name="level23">Уровень: 23</string>
+    <string name="level24">Уровень: 24</string>
+    <string name="level25">Уровень: 25</string>
+    <string name="level26">Уровень: 26</string>
+    <string name="level27">Уровень: 27</string>
+    <string name="level28">Уровень: 28</string>
+    <string name="level29">Уровень: 29</string>
+    <string name="level30">Уровень: 30</string>
+    <string name="points">Очки:</string>
+    <string name="point1">Очки: 1</string>
+    <string name="point2">Очки: 2</string>
+    <string name="point3">Очки: 3</string>
+    <string name="point4">Очки: 4</string>
+    <string name="point5">Очки: 5</string>
+    <string name="point6">Очки: 6</string>
+    <string name="point7">Очки: 7</string>
+    <string name="point8">Очки: 8</string>
+
+    <string name="textcontinuoe">Продолжить</string>
+    <string name="textscore">Вы набрали</string>
+
+    <string name="texts_rules">Как играть?\nПо умолчанию, кнопка "Начать" ведёт в синий сектор, в котором с
+каждым новым уровнем вы будете узнавать всё больше
+символов азбук японского языка.\nЧтобы попасть в другие сектора покрутите колесо и нажмите "Начать".\n1. Синий сектор - изучение катаканы и хираганы. Содержит уровни, в
+которых можно собрать слово при помощи слогов.\n2. Зелёный сектор - изучение японских цифр и некоторых чисел.\n3. Розовый сектор - тренировка на знание азбук (катакана и
+хирагана).\nПриятной игры)</string>
+</resources>
